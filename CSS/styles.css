@@ -1,0 +1,51 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  background-color: #ffe352;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+h3  {
+  padding: .5em;
+}
+
+i {
+  font-size: 5em;
+  margin: .5em;
+}
+
+footer  {
+  min-height: 8vh;
+}
+
+#jumbotron_id {
+
+  background-size: cover;
+  height: 100vh;
+}
+
+.parallax {
+  background: url(../images/truck.jpg) no-repeat center center;
+  height: 100vh;
+	position: relative;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.flip-Colors  {
+  background-color: #000;
+  color: #fff;
+}
+
+/* Potential Colors: #FAFAFA Off-White, #FEE530 Gold, #000000 Black, #9B9B9B Neutral-Grey */
