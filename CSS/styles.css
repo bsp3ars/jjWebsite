@@ -34,7 +34,7 @@ footer  {
 }
 
 .parallax {
-  background: url(../images/truck.jpg) no-repeat center center;
+  background: url(../images/abTruck.jpg) no-repeat center center;
   height: 100vh;
 	position: relative;
 	background-attachment: fixed;
@@ -46,6 +46,10 @@ footer  {
 .flip-Colors  {
   background-color: #000;
   color: #fff;
+}
+
+.imageButton  {
+  font-size: 2.5em;
 }
 
 /* Potential Colors: #FAFAFA Off-White, #FEE530 Gold, #000000 Black, #9B9B9B Neutral-Grey */
